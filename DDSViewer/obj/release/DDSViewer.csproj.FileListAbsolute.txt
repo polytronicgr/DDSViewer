@@ -1,0 +1,5 @@
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\DDSViewer\DDSViewer\obj\Release\DDSViewer.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\DDSViewer\DDSViewer\obj\Release\DDSViewer.batchConvert.resources
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\DDSViewer\DDSViewer\obj\Release\DDSViewer.Form1.resources
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\DDSViewer\DDSViewer\obj\Release\DDSViewer.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\DDSViewer\DDSViewer\obj\Release\DDSViewer.csproj.GenerateResource.Cache
